@@ -1,5 +1,7 @@
 # SwarmLogic: 1,000 drones, every path computed
 
+▶ **[Watch on YouTube](https://youtube.com/shorts/-Dn2M6atL0Y)**
+
 https://github.com/user-attachments/assets/7476cd54-97d3-4442-8cfa-1a91fef93a86
 [Download full 1080p](hero_short_1080.mp4)
 
